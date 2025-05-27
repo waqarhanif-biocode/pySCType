@@ -1,0 +1,35 @@
+tissueType,cellName,geneSymbolmore1,geneSymbolmore2,shortName
+Brain,General Excitatory Neuron,"Slc17a7,Slc17a6",,ExcN_Gen
+Brain,Pyramidal Neuron,"Nrgn,Camk2a",,ExcN_Pyr
+Brain,Cortical Excitatory Neuron,"Tbr1,Satb2",,ExcN_Cort
+Brain,General GABAergic Neuron,"Gad1,Gad2,Slc32a1",,InhN_GABA_Gen
+Brain,Pvalb+ Interneuron,Pvalb,,InhN_PV
+Brain,Sst+ Interneuron,Sst,,InhN_SST
+Brain,Vip+ Interneuron,Vip,,InhN_VIP
+Brain,Neuroblast,"Dcx,Nes,Neurod1,Tubb3,Ntng1,Dlx2,Ncam1",,Neuroblast
+Brain,Astrocyte,"Gfap,Aldh1l1,Aqp4,S100b,Apoe,Gja1,Slc1a2",,Astro
+Brain,Mature Oligodendrocyte,"Mbp,Plp1,Mog,Cnp,Mag,Ermn,Enpp2",,Oligo_Mat
+Brain,Oligodendrocyte Progenitor Cell,"Pdgfra,Cspg4,Olig2,Sox10,Gpr17",,OPC
+Brain,Endothelial Cell,"Pecam1,Cldn5,Flt1,Cdh5,Egfl7,Vwf,Emcn",,Endo
+Brain,Pericyte,"Pdgfrb,Rgs5,Acta2,Kcnj8,Cspg4,Mcam,Higd1b,Myo1b,Notch3",,Peri
+Brain,Homeostatic Microglia,"Tmem119,P2ry12,Hexb,Cx3cr1,Olfml3,Sparc,Tgfbr1,Fcrls,Trem2,Sall1",,Micro_Homeo
+Brain,Microglia (General Myeloid Markers),"Aif1,Itgam,Ptprc",,Micro_GenMyl
+Brain,General Macrophage,"Adgre1,Cd68,Itgam,Ptprc",,Mac_Gen
+Brain,Border-Associated Macrophage,"Mrc1,Lyve1,Ms4a7,Pf4,Cd163",,BAM
+Brain,M1-like Macrophage,"Nos2,Cd80,Cd86",,Mac_M1
+Brain,M2-like Macrophage,"Arg1,Cd163,Mrc1",,Mac_M2
+Brain,Lipid-Associated Macrophage,"Fabp5,Trem2",,Mac_LAM
+Brain,Monocyte,"Ly6c2,Ccr2,Plac8,Ly6c1",,Mono
+Brain,General Dendritic Cell,"Itgax,H2-Ab1,H2-Aa,Cd74",,DC_Gen
+Brain,Conventional Dendritic Cell type 1,"Xcr1,Clec9a,Irf8",,cDC1
+Brain,Conventional Dendritic Cell type 2,"Sirpa,Cd11b,Irf4",,cDC2
+Brain,Plasmacytoid Dendritic Cell,"Siglech,Bst2,Ccr9",,pDC
+Brain,General T-cell,"Cd3e,Cd3g,Cd3d,Trac,Trbc1,Trbc2",,Tcell_Gen
+Brain,CD4+ Helper T-cell,Cd4,,Tcell_CD4Help
+Brain,Th1 T-cell,"Cd4,Tbx21",,Tcell_Th1
+Brain,CD8+ Cytotoxic T-cell,"Cd8a,Cd8b1",,Tcell_CD8Cyto
+Brain,Regulatory T-cell,"Foxp3,Il2ra,Cd4",,Treg
+Brain,General B-cell,"Cd19,Ms4a1,Cd79a,Cd79b",,Bcell_Gen
+Brain,Plasma Cell,"Sdc1,Jchain,Ighm,Igkc,Prdm1,Xbp1,Mzb1",,Plasma_Cell
+Brain,Natural Killer Cell,"Ncr1,Klrb1c,Nkg7,Gzma,Gzmb,Eomes",,NK_Cell
+Brain,Neutrophil,"Ly6g,S100a8,S100a9,Mmp9,Elane,Csf3r,Retnlg,Camp",,Neutro
